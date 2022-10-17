@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ebsaa
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning Alx!
+- 🌱 I’m currently learning at Alx!
 - 💞️ I’m looking to collaborate on github to solve world problem by digital technology in software profession!!
 - 📫 How to reach me though my email hit me @ ebsaumar200@gmail.com
 
